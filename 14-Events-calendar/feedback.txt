@@ -1,0 +1,9 @@
+"Please add a settings page to modify some components of the program" from Pawel
+"I don't understand your code, it's too complex" from Ian
+"Please add documentation to some of your code, especially the formattedDuration one-liner" from Josei
+"The events should be from newest to oldest..." from Tanzeal
+"This program is dead... POINTLESS" from Joe
+"Please fix the menu" from Pawel
+"I've got OCD, please adjust the menus so that they are all equidistant " from Pawel
+"I don't like you" from some guy
+"I like your app" from myself :(

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Pawel",
+    "surname": "Zabinski",
+    "gender": "Male",
+    "medicalInfo": "None",
+    "experience": "Expert",
+    "type": "Premium"
+  },
+  {
+    "name": "Josei",
+    "surname": "Kobayashi",
+    "gender": "Male",
+    "medicalInfo": "None",
+    "experience": "Intermediate",
+    "type": "Basic"
+  },
+  {
+    "name": "Joel",
+    "surname": "Kyei",
+    "gender": "Male",
+    "medicalInfo": "Scared of heights",
+    "experience": "Begginer",
+    "type": "Premium"
+  }
+]

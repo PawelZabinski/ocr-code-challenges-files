@@ -1,0 +1,70 @@
+[
+  {
+    "text": "What does 'Network Topology' mean?",
+    "correct_answer": "The layout of connections in a network",
+    "incorrect_answers": [
+      "The number of nodes on a network",
+      "The order of nodes on a network",
+      "A network diagram"
+    ]
+  },
+  {
+    "text": "What is each device on a network called?",
+    "correct_answer": "Node",
+    "incorrect_answers": [
+      "Workstation",
+      "Module",
+      "Standalone"
+    ]
+  },
+  {
+    "text": "Data collisions are commonplace on star networks",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "text": "On star networks, no workstation can interact with another without first going through the central server",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "text": "What is another name for the Von Neumann Architecture?",
+    "correct_answer": "Stored program computer",
+    "incorrect_answers": [
+      "Fixed program computer",
+      "General purpose computer",
+      "Multi user computer"
+    ]
+  },
+  {
+    "text": "Where are the data and instructions stored in the Von Neumann Architecture?",
+    "correct_answer": "Main Memory",
+    "incorrect_answers": [
+      "Control Unit",
+      "Registers",
+      "Secondary memory"
+    ]
+  },
+  {
+    "text": "Using Extended ASCII, how much bytes would the name 'Pawel' take?",
+    "correct_answer": "5",
+    "incorrect_answers": [
+      "10",
+      "7",
+      "1"
+    ]
+  },
+  {
+    "text": "State what is meant by the term 'Compression'",
+    "correct_answer": "The process of reducing the file size",
+    "incorrect_answers": [
+      "The process of encoding data so that it cannot be easily understood if it is discovered, stolen or intercepted",
+      "The process of compressing the hard disk so that Newton's Third Law increasing its file capacity.",
+      "The process of pushing quantum particles away to cause a chemical reaction could 'Compression'"
+    ]
+  }
+]
